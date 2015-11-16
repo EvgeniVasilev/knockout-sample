@@ -60,7 +60,7 @@
     height: 450px;
     display: table-cell;
     overflow: hidden;
-    background-color: rgb(34,34,34);
+    background-color: black;
     text-align: center;
     vertical-align: middle;   
     border: 5px solid maroon;
