@@ -49,6 +49,7 @@ var Player = function () {
         var path = window.location.href;
         window.location.href = path;
     };
+    
     self.processLogOut = function () {
         localStorage.removeItem("isLogged");
         var path = window.location.href;
